@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=3C3CA0&center=true&vCenter=true&width=1000&lines=わんだほーい！ようこそ！きらきらドキドキもちもちぷよぷよわっしょーい！のわんだらんず×ショウタイムへ！)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=C3B1E1&center=true&vCenter=true&width=1000&lines=わんだほーい！ようこそ！きらきらドキドキもちもちぷよぷよわっしょーい！のわんだらんず×ショウタイムへ！)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sleepy-archive&color=3C3CA0&style=for-the-badge">
