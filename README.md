@@ -55,9 +55,39 @@ I use arch btw
 My Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2039%20mins-blue?style=flat)
 
-```txt
-No activity tracked
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                10 commits          ████████████████░░░░░░░░░   62.50 % 
+🌃 Evening                6 commits           █████████░░░░░░░░░░░░░░░░   37.50 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   6 commits           █████████░░░░░░░░░░░░░░░░   37.50 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   4 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Saturday                 3 commits           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Sunday                   3 commits           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 09/02/2026 12:49:38 UTC
 <!--END_SECTION:waka-->
