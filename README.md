@@ -55,26 +55,26 @@ I use arch btw
 My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2058%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                10 commits          ████████████████░░░░░░░░░   62.50 % 
-🌃 Evening                6 commits           █████████░░░░░░░░░░░░░░░░   37.50 % 
+🌆 Daytime                10 commits          ██████████████░░░░░░░░░░░   55.56 % 
+🌃 Evening                8 commits           ███████████░░░░░░░░░░░░░░   44.44 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   6 commits           █████████░░░░░░░░░░░░░░░░   37.50 % 
+Monday                   8 commits           ███████████░░░░░░░░░░░░░░   44.44 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   4 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Saturday                 3 commits           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Sunday                   3 commits           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Friday                   4 commits           ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Saturday                 3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Sunday                   3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
@@ -82,12 +82,15 @@ Sunday                   3 commits           █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 51 mins        ████████████████████████░   94.96 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sleepy-archive           1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/02/2026 12:49:38 UTC
+ Last Updated on 10/02/2026 02:49:37 UTC
 <!--END_SECTION:waka-->
