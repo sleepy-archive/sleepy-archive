@@ -14,14 +14,15 @@ sleepy@github
 I use arch btw
 ```
 </div>
+
+<div align="center"> <img src="assets/anime_gif.gif" /> </div>
+
 <br clear="left"/>
-
-
 
 <h2 align="center"> CONTACT ME </h2>
 
 <div align="center">
-  <img src="assets/contact_pic.jpg" align="left" width="300px" style="margin-right: 20px;">
+  <img src="assets/contact_pic.jpg" align="left" width="300" style="margin-right: 20px;">
   
   <br>
   
@@ -33,7 +34,7 @@ I use arch btw
   <br>
   ❀˚✿˖°❀˖°✿˖❀˖°
   <br>
-</p>
+  </p>
 
   <p align="center">
     <a href="https://www.instagram.com/kagerou.archive/" target="_blank">
@@ -55,26 +56,26 @@ I use arch btw
 My Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2039%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                10 commits          ██████████████░░░░░░░░░░░   55.56 % 
-🌃 Evening                8 commits           ███████████░░░░░░░░░░░░░░   44.44 % 
+🌆 Daytime                10 commits          ████████████████░░░░░░░░░   62.50 % 
+🌃 Evening                6 commits           █████████░░░░░░░░░░░░░░░░   37.50 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   8 commits           ███████████░░░░░░░░░░░░░░   44.44 % 
+Monday                   6 commits           █████████░░░░░░░░░░░░░░░░   37.50 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   4 commits           ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Saturday                 3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Sunday                   3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Friday                   4 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Saturday                 3 commits           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Sunday                   3 commits           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
 ```
 
 
@@ -82,15 +83,12 @@ Sunday                   3 commits           ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 51 mins        ████████████████████████░   94.96 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sleepy-archive           1 hr 57 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/02/2026 02:49:37 UTC
+ Last Updated on 09/02/2026 12:49:38 UTC
 <!--END_SECTION:waka-->
