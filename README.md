@@ -36,11 +36,11 @@ I use arch btw
   <br>
   </p>
 
-  <p align="center">
-    <a href="https://www.instagram.com/ii.brmm/" target="_blank">
-      <img src="https://img.shields.io/badge/%20INSTAGRAM-3C3CA0?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A32" alt="Instagram"/>
-    </a>
-  </p>
+<p align="center">
+  <a href="https://www.instagram.com/ii.brmm/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/%20INSTAGRAM-3C3CA0?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A32" alt="Instagram"/>
+  </a>
+</p>
 
   <div align="center">
     <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31hgl3ptshvzs27klqpf35vtwxki">
