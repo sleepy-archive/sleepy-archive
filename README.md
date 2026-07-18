@@ -37,7 +37,7 @@ I use arch btw
   </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/i.ibrmm/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/its.ibrmm/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/%20INSTAGRAM-3C3CA0?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A32" alt="Instagram"/>
   </a>
 </p>
