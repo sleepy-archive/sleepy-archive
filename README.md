@@ -33,11 +33,11 @@ I use arch btw</code></pre>
   <br>
   </p>
 
-<p>
+<!-- <p>
   <a href="https://www.instagram.com/i.b.r.m_/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?label=&message=INSTAGRAM&color=3C3CA0&labelColor=0A0A32&logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
-</p>
+</p>-->
 
   <div>
     <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31hgl3ptshvzs27klqpf35vtwxki">
