@@ -38,7 +38,6 @@ status      probably sleeping, poke me twice
   </p>
 
   <br>
-  <br>
 
   <p align="center">
     <a href="https://www.instagram.com/ibralune/" target="_blank" rel="noopener noreferrer">
