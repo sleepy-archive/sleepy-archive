@@ -37,6 +37,9 @@ status      probably sleeping, poke me twice
   <br>
   </p>
 
+  <br>
+  <br>
+
   <p align="center">
     <a href="https://www.instagram.com/ibralune/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/%20INSTAGRAM-3C3CA0?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A32" alt="Instagram"/>
@@ -50,8 +53,9 @@ status      probably sleeping, poke me twice
   </p>
 </div>
 
+<br>
 
 <div align="right">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31hgl3ptshvzs27klqpf35vtwxki">
-    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31hgl3ptshvzs27klqpf35vtwxki" width="55%" alt="Data Card for Spotify">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31hgl3ptshvzs27klqpf35vtwxki" width="58%" alt="Data Card for Spotify">
   </a>
