@@ -4,7 +4,7 @@
 <br>
 
 <div>
-  <img align="left" src="assets/profile_pic.jpg" width="25%" style="margin-right: 20px;" />
+  <img align="left" src="assets/profile_pic.jpg" width="36%" style="margin-right: 20px;" />
 
 ```text
 sleepy@github
@@ -17,6 +17,8 @@ music       my awesome taste below ₍ᐢ. .ᐢ₎ ᐯ
 status      probably sleeping, poke me twice
 ```
 </div>
+
+<div align="center"> <img src="assets/anime_gif.gif" /> </div>
 
 <br clear="left"/>
 
@@ -58,3 +60,4 @@ status      probably sleeping, poke me twice
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31hgl3ptshvzs27klqpf35vtwxki">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31hgl3ptshvzs27klqpf35vtwxki" width="58%" alt="Data Card for Spotify">
   </a>
+</div>
