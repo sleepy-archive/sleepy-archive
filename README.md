@@ -18,7 +18,7 @@ status      probably sleeping, poke me twice
 ```
 </div>
 
-<div align="center"> <img src="assets/anime_gif.gif" /> </div>
+<div align="center"> <img src="assets/anime_gif.gif" width="42%" /> </div>
 
 <br clear="left"/>
 
